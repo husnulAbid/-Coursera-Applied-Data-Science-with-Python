@@ -1,0 +1,19 @@
+In Assignment 2:
+
+*Basic operations of panda DataFrame
+*Copy, find min max mean, idxmin
+*Group by, sort_values
+
+
+In Assignment 3: 
+
+*Merge Dataframe, correlation
+*join with Dictionary, set_index()
+*Bubble chart
+
+
+In Assignment 4:
+
+*Hypothesis testing
+*df1.drop(df2.index) (Del from Dataframe where index is present)
+*Advance Dataframe Manupulation
